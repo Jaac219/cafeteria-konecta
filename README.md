@@ -33,7 +33,7 @@
     private $DB_NAME = "cafeteria";
 ```
 5. Cuando se cargue la pagina se debe dirigir a la opcion del navBar de crear producto para empezar a llenar la base de datos.
-6. IMPORTANTE: Los script para las consultas directas a la Base de datos estan en la siguiente ruta:
+6. IMPORTANTE: Los scripts para las consultas directas a la Base de datos estan en la siguiente ruta:
     - /htdocs/cafeteria/application/sql/querys.sql
     - Allí se encuentran los 2 puntos solicitados en el enunciado de la prueba
 
