@@ -1,7 +1,7 @@
 # Cafeteria Konecta 
 
 <p align="right">
-  <img width="1400" height="600" src="./coffeeShop.jpg" />
+  <img width="1400" height="400" src="./coffeeShop.jpg" />
 </p>
 
 
