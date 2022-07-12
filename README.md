@@ -1,4 +1,4 @@
-# Cafeteria Konecta 
+# Cafetería Konecta 
 
 <p align="right">
   <img width="1400" height="400" src="./coffeeShop.jpg" />
